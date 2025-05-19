@@ -26,7 +26,7 @@ jobs:
         with:
           args: >
             -Dsonar.projectKey=yegor224_laba7brigada3
-            -Dsonar.organization=yegor224
+            -Dsonar.organization=yegor224-1
             -Dsonar.sources=.
             -Dsonar.java.binaries=.
         env:
